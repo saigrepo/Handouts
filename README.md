@@ -9,3 +9,5 @@ The courses I'm intreseted IN
 | SEZG587		    | OPEN SOURCE SOFTWARE ENGG     |
 | SEZG622	      | SOFTWARE PROJECT MANAGEMENT   |
 | SEZG661      	| SOFTWARE QUALITY MANAGEMENT   |
+| SEZG583	      | SCALABLE SERVICES             | 
+
